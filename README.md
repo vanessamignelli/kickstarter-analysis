@@ -12,7 +12,7 @@
 ### The second analysis was constructed based on outcomes by goals. To do this, data was gathered and displayed to show the monetary goal established prior to the launch of the campaign, and the corresponding number of sucesses, failures and cancels based on these initial goals. To appropriately sort this information, the 'COUNTIF' function was used in excel to specify the outcome, goal range and the play subcategory. From there, the percentage of each outcomes by monetary goal could be examined. The graph above provides a visual representation of the findings.
 ![Outcomes_vs_Goals](https://github.com/vanessamignelli/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
-### Possible challenges that could be considered when putting together this analysis is the ability to properly formulate a 'COUNTIF' statement in excel. Because there are various columns in the dataset, and criteria that must be met to sort the data into their appropriate categories, it is crucial to ensure the formula is correct to decipher accurate results for this analysis.
+### Possible challenges that could be considered when putting together this analysis is the ability to properly formulate a 'COUNTIF' statement in excel. Because there are various columns in the dataset, and criteria that must be met to sort the data into their appropriate categories, it is crucial to ensure the formula is correct to decipher accurate results for this analysis. The full analysis can be viewed here: [kickstarter_challenge](https://github.com/vanessamignelli/kickstarter-analysis/blob/main/kickstarter_challenge.xlsx)
 
 ## Results
 
