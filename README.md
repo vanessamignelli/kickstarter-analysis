@@ -1,4 +1,4 @@
-# Campaigne Fundraising Analysis
+# Campaign Fundraising Analysis
 
 ## Overview of Project
 
